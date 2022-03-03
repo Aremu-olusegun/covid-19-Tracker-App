@@ -13,6 +13,8 @@ By creating in this project, i hope to gain additional knowledge and an in-depth
 ## Project Description and Aim
 
 ## Technologies
+Project was created with
+
 * HTML 5
 * CSS
 * Javascript

@@ -1,6 +1,6 @@
 # Covid-19-Tracker-App
 
-![screenshot](https://unsplash.com/photos/dIOqrg3DH00)
+![screenshot]('https://unsplash.com/photos/dIOqrg3DH00')
 
 ## Project Description and Aim
 Covid 19 Tracker App is a free to use COVID-19 statistic live data tracker app. It lets you know everything you need to know about the overall coronavirus cases including deaths, recovered, and active cases.<br>

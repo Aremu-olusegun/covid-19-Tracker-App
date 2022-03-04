@@ -25,3 +25,6 @@ Project was created with
 
 ## Setup
 This web app has been hosted on netlify to enable users have direct access to its functionality
+
+## The project status
+This project has been completed
